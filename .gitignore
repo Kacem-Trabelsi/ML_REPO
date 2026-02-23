@@ -1,15 +1,3 @@
-# Raw datasets (large files)
-*.csv
-*.xlsx
-*.xls
-
-# Cleaned outputs (large files)
-cleaned/*.csv
-cleaned/*.pkl
-
-# Plots are kept (small PNGs)
-!cleaned/plots/
-
 # Python cache
 __pycache__/
 *.pyc

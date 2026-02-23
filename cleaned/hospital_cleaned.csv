@@ -1,0 +1,825 @@
+Age,Gender,Diagnosis,Name of Drug,Dosage (gram),Route,Frequency,Duration (days),Indication,entry_year,entry_month,entry_day_of_week,entry_hour
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,icm,2019,12,3,14
+86,0,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,iv,bd,1,post op,2019,12,3,16
+82,1,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,iv,bd,3,abd distension with leg swelling,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",cefipime,1.0,iv,bd,5,abd distension with leg swelling,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,oral,od,3,abd distension with leg swelling,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,iv,tds,3,abd distension with leg swelling,2019,12,3,15
+55,0,abd tb,ceftriaxone,1.0,iv,bd,3,abd tb,2019,12,3,16
+55,0,abd tb,septrin,0.96,oral,od,1,abd tb,2019,12,3,16
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,iv,tds,4,abscess on chin,2019,12,3,16
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,oral,tds,7,abscess on chin,2019,12,3,16
+22,0,acute bacillary dysentery e sepsis,cefoperazone+sulbactam,1.0,iv,bd,5,acute bacillary dysentry e sepsis,2019,12,3,17
+22,0,acute bacillary dysentry e sepsis,metronidazole,0.5,iv,tds,5,acute bacillary dysentry e sepsis,2019,12,3,17
+22,0,acute bacillary dysentry e sepsis,cefixime,0.2,oral,bd,3,acute bacillary dysentry e sepsis,2019,12,3,17
+22,0,acute bacillary dysentry e sepsis,metronidazole,0.5,oral,tds,3,acute bacillary dysentry e sepsis,2019,12,3,17
+40,1,acute bronchitis,co-amoxiclav,1.2,iv,tds,3,acute bronchitis,2019,12,3,14
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,iv,bd,1,acute cerebral infarct,2019,12,3,16
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,iv,tds,1,acute cerebral infarct,2019,12,3,16
+14,1,acute flaccid lower limb weakness,cefixime,0.2,oral,bd,1,acute flaccid lower limb weakness,2019,12,3,16
+72,0,acute gastritis vomitting ē hk+,co-amoxiclav,0.625,oral,tds,7,acute gastritis vomitting ē hk+,2019,12,3,15
+57,1,"acute ge,  septic shock",cefepime,1.0,iv,tds,4,acute ge,2019,12,3,16
+57,1,"acute ge,  septic shock",metronidazole,0.75,iv,tds,4,acute ge,2019,12,3,16
+57,1,"acute ge,  septic shock",cefixime,0.2,oral,bd,2,acute ge,2019,12,3,16
+57,1,"acute ge,  septic shock",metronidazole,116.01749999999731,oral,tds,2,acute ge,2019,12,3,16
+60,1,"acute ge, underlying  heart disease",metronidazole,0.75,iv,tds,2,acute ge,2019,12,3,14
+53,0,"dm, acute ge, koch's lung",ceftriaxone,1.0,iv,bd,3,acute ge,2019,12,3,16
+53,0,"dm, acute ge, koch's lung",ciprofloxacin,0.5,oral,bd,2,acute ge,2019,12,3,16
+32,1,"food poisoing, acute ge, some dehydration",norfloxacin,0.4,oral,bd,3,acute ge,2019,12,3,14
+48,1,"miliary tb, acute ge",metronidazole,0.75,iv,tds,1,acute ge,2019,12,3,16
+48,1,"miliary tb, acute ge",ceftriaxone,1.0,iv,bd,1,acute ge,2019,12,3,16
+48,1,"miliary tb, acute ge",coamoxiclav,0.625,oral,tds,5,acute ge,2019,12,3,16
+22,1,bacillary dysentry,cifran,0.5,oral,bd,7,acute ge,2019,12,3,15
+22,1,bacillary dysentry,cifran,0.4,iv,bd,2,acute ge,2019,12,3,15
+47,1,"hcv(+), pancytopenia, rvi, mtb(+) very low",ceftriaxone,1.0,iv,bd,1,acute hbv-hcv co-infection,2019,12,3,16
+63,0,"acute liver disease, weil's disease, renal impairment",ceftriaxone,1.0,iv,bd,3,acute liver disease,2019,12,3,16
+63,0,"acute liver disease, weil's disease, renal impairment",meropenem,0.5,iv,od,1,acute liver disease,2019,12,3,16
+19,0,avi,ceftriaxone,1.0,iv,bd,2,acute pain in spa,2019,12,3,15
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,iv,bd,6,acute pulmonary edema,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,iv,bd,5,acute pulmonary edema,2019,12,3,14
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,iv,tds,1,acute pulmonary edema,2019,12,3,14
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,iv,tds,1,acute pulmonary edema,2019,12,3,15
+51,0,"acute sever asthma, chest infection",co-amoxiclav,0.625,oral,tds,5,asthma,2019,12,3,14
+22,0,acute severe asthma,co-amoxiclav,1.2,iv,tds,1,asthma,2019,12,3,14
+22,0,acute severe asthma,co-amoxiclav,0.625,oral,tds,1,asthma,2019,12,3,14
+36,0,acute severe asthma,co-amoxiclav,1.2,iv,tds,2,asthma,2019,12,3,14
+57,1,"pre-renal aki, rvi stage 4 on art, koch's lung",ceftriaxone,1.0,iv,bd,5,acute vomitting,2019,12,3,15
+48,1,"systematic hypoglycemia,  chest infection,  alcoholic col,  addision's disease",metronidazole,0.75,iv,tds,1,addison's disease,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",ceftriaxone,1.0,iv,od,1,addison's disease,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",co-amoxiclav,1.2,iv,tds,1,addison's disease,2019,12,3,14
+62,0,"urinary tract infection,  type 2dm, af,  hypertension",co-amoxiclav,1.2,iv,tds,1,af,2019,12,3,14
+62,0,"urinay tract infection,  type 2dm,  af,  hypertension",cefepime,1.0,iv,bd,5,af,2019,12,3,14
+77,0,"cardioembolic, stroke",ceftriaxone,1.0,iv,bd,1,af,2019,12,3,15
+77,0,"cardioembolic, stroke",metronidazole,0.75,iv,tds,1,af,2019,12,3,15
+77,0,"cardioembolic, stroke",pen v,0.25,oral,bd,1,af,2019,12,3,15
+47,0,age,ciprofloxacin,0.5,oral,bd,5,age,2019,12,3,14
+67,0,"consolidation, chest infection, aki",co-amoxiclav,1.2,iv,tds,5,aki,2019,12,3,14
+67,0,"consolidation, chest infection, aki",clarithromycin,0.5,oral,bd,10,aki,2019,12,3,14
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,aki,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,aki,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,aki,2019,12,3,16
+86,0,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,iv,bd,1,akt,2019,12,3,16
+30,1,alcohol withdrawal syndrome,ceftriaxone,1.0,iv,bd,1,alcohol withdrawal syndrome,2019,12,3,14
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,iv,bd,4,alcoholic gastritis,2019,12,3,16
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,oral,bd,3,alcoholic gastritis,2019,12,3,16
+66,1,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,oral,bd,14,alcoholic gastritis,2019,12,3,16
+66,1,"alcoholic gastritis, early col, hypertension",clarithromycin,0.5,oral,bd,14,alcoholic gastritis,2019,12,3,16
+48,1,"septic shock, hcv co-infection, col, liver impairment, electrolyte imbalance",ceftriaxone,1.0,iv,bd,1,alcoholic hcv,2019,12,3,15
+44,1,"alcohol hepatitis, left pleural effusion",cefexime,0.5,oral,bd,3,alcoholic hepatitis,2019,12,3,15
+53,1,"alcoholic hepatitis,  alcohol col",ceftriaxone,1.0,iv,bd,5,alcoholic hepatitis,2019,12,3,16
+30,1,"alcoholic withdrawal,  alcoholic hepatitis",ceftriaxone,1.0,iv,bd,5,alcoholic hepatitis,2019,12,3,14
+30,1,"alcoholic withdrawal,  alcoholic hepatitis",cefixime,0.2,oral,bd,5,alcoholic hepatitis,2019,12,3,14
+30,1,"alcoholic withdrawal,  alcoholic hepatitis",ceftriaxone,1.0,iv,bd,5,alcoholic withdrawal,2019,12,3,14
+30,1,"alcoholic withdrawal,  alcoholic hepatitis",cefixime,0.2,oral,bd,5,alcoholic withdrawal,2019,12,3,14
+15,1,"rvi,  pre art defaulter,  anti tb defaulter, anaemia",septrin,1.0,oral,od,4,anaemia,2019,12,3,15
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,iv,bd,2,anaemia,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,iv,bd,8,anaemia,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,iv,tds,2,anaemia,2019,12,3,14
+45,0,"anaemia, hypochromic microcytic anaemia, u/l diabetes mellitus",amoxicillin,1.0,oral,bd,14,anaemia with u/l dm,2019,12,3,15
+45,0,"anaemia, hypochromic microcytic anaemia, u/l diabetes mellitus",clarithromycin,0.5,oral,bd,14,anaemia with u/l dm,2019,12,3,15
+37,1,"anaphyatic, uti",ceftriaxone,1.0,iv,bd,3,anaphyatic shock,2019,12,3,14
+37,1,"anaphylatic shock, uti",cefixime,2.0,oral,bd,5,anaphylatic shock,2019,12,3,14
+55,0,and tb,clarithromycin,0.5,oral,bd,1,and tb,2019,12,3,16
+78,0,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,iv,tds,8,anteroseptal mi,2019,12,3,14
+15,0,anxiety neurosis,cefixime,1.0,oral,bd,3,anxiety neurosis,2019,12,3,14
+15,0,anxiety neurosis,ceftriaxone,1.0,iv,bd,1,anxiety neurosis,2019,12,3,14
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,iv,tds,1,aortic dissection,2019,12,3,14
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,iv,tds,1,aortic dissection,2019,12,3,15
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,oral,od,1,art noise,2019,12,3,14
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,iv,bd,5,art noise,2019,12,3,14
+31,0,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefipime,1.0,iv,bd,4,art noise,2019,12,3,14
+37,0,arthralgia,ceftriaxone,1.0,iv,bd,5,arthralgia,2019,12,3,13
+38,1,"alcoholic  col, ascites",ceftazidine,1.0,iv,tds,1,ascites,2019,12,3,15
+38,1,"col, ascites",ceftriaxone,1.0,iv,bd,2,ascites,2019,12,3,15
+65,1,"aspiration pneumonia, old stroke, cerebral infarct",metronidazole,0.2,oral,tds,5,aspiration pneumonia,2019,12,3,14
+65,1,"aspiration pneumonia, old stroke, cerebral infarct",ceftriaxone,1.0,iv,bd,1,aspiration pneumonia,2019,12,3,14
+65,1,"aspiration pneumonia, old stroke, cerebral infarct",cefixime,0.14225000000000004,oral,bd,5,aspiration pneumonia,2019,12,3,14
+86,0,"right sided hemiparaesis, hypertension, dm, aspiration pneumonia",co-amoxiclav,1.2,iv,tds,1,aspiration pneumonia,2019,12,3,16
+86,0,"right sided hemiparaesis, hypertension, dm, aspiration pneumonia",metronidazole,0.75,iv,tds,1,aspiration pneumonia,2019,12,3,16
+71,0,aspiration pneumonia,ceftriaxone,1.0,iv,bd,2,aspiration pneumonia,2019,12,3,15
+71,0,aspiration pneumonia,metronidazole,0.75,iv,tds,1,aspiration pneumonia,2019,12,3,15
+59,1,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",ceftriaxone,1.0,iv,bd,7,aspiration pneumonia,2019,12,3,16
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",rifaximin,0.55,oral,bd,7,aspiration pneumonia,2019,12,3,15
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",cefixime,0.2,oral,bd,7,aspiration pneumonia,2019,12,3,15
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",metronidazole,0.25,oral,tds,7,aspiration pneumonia,2019,12,3,15
+59,1,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",metronidazole,0.75,iv,tds,7,aspiration pneumonia,2019,12,3,16
+42,1,left sided pulmonary tb,ceftriaxone,1.0,iv,bd,6,aspiration pneumonia,2019,12,3,16
+30,1,asthma,ceftazidine,1.0,iv,tds,3,asthma,2019,12,3,16
+30,1,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",cefoperazone,1.0,iv,bd,10,atypical pneumonia,2019,12,3,15
+30,1,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",levofloxacin,0.5,iv,od,10,atypical pneumonia,2019,12,3,15
+30,1,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",co-amoxiclav,1.2,iv,tds,1,atypical pneumonia,2019,12,3,15
+30,1,"atypical pneumonia, mycoplasma?, itp, left sided pleural effusion",clarithromycin,0.5,oral,bd,8,atypical pneumonia,2019,12,3,15
+34,0,aud,ceftriaxone,1.0,iv,bd,1,aud,2019,12,3,16
+29,0,"avi,  sle",cefixime,0.2,oral,bd,6,avi,2019,12,3,16
+29,0,"avi,  sle",ceftriaxone,1.0,iv,bd,8,avi,2019,12,3,16
+48,0,"pancytopencia, aki, rvi, b,c coinfection",cefoperazone,1.0,iv,bd,5,b,2019,12,3,15
+48,0,"pancytopenia, aki, rvi, b,c coinfection",septrin,0.96,oral,od,3,b,2019,12,3,15
+53,1,"b(+), col, gastritis",ceftriaxone,1.0,iv,bd,1,b,2019,12,3,14
+86,0,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,iv,bd,1,be amputation,2019,12,3,16
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,oral,od,1,bone marrow depression,2019,12,3,14
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,iv,bd,5,bone marrow depression,2019,12,3,14
+31,0,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefipime,1.0,iv,bd,4,bone marrow depression,2019,12,3,14
+49,0,"bppv, type2 dm, postural hypertension",ceftriaxone,1.0,iv,bd,1,bppv,2019,12,3,14
+49,0,"bppv, type2 dm, postural hypertension",cefixime,1.0,oral,bd,5,bppv,2019,12,3,14
+50,0,bronchial asthma,co-amoxiclav,1.2,iv,tds,7,asthma,2019,12,3,16
+48,0,"pancytopencia, aki, rvi, b,c coinfection",cefoperazone,1.0,iv,bd,5,c coinfection,2019,12,3,15
+48,0,"pancytopenia, aki, rvi, b,c coinfection",septrin,0.96,oral,od,3,c coinfection,2019,12,3,15
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,iv,bd,2,ca buffalo mucosa,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,iv,bd,8,ca buffalo mucosa,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,iv,tds,2,ca buffalo mucosa,2019,12,3,14
+61,1,"ca lung, lung abscess",co-amoxiclav,1.2,iv,tds,3,ca lung,2019,12,3,15
+61,1,"ca lung, lung abscess",co-amoxiclav,0.625,oral,tds,3,ca lung,2019,12,3,15
+58,0,"cap, type 2 dm",ceftriaxone,1.0,iv,bd,5,cap,2019,12,3,15
+58,0,"cap, type 2 dm",metronidazole,0.75,iv,tds,5,cap,2019,12,3,15
+58,0,"cap, type 2 dm",cefixime,0.2,oral,bd,5,cap,2019,12,3,15
+58,0,"chronic cardiac failure, community aquired pneumonia, ihd",ceftriaxone,1.0,iv,bd,1,cap,2019,12,3,15
+58,0,"chronic cardiac failure, community aquired pneumonia, ihd",coamoxiclav,1.2,iv,tds,5,cap,2019,12,3,15
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,iv,tds,5,cap,2019,12,3,14
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefipime,1.0,iv,bd,1,cap,2019,12,3,14
+71,0,"cap, copd, drug inducwd cushing syndrome",co-amoxiclav,1.2,iv,tds,5,cap,2019,12,3,16
+71,0,"cap, copd, drug inducwd cushing syndrome",ceftriaxone,2.0,iv,bd,2,cap,2019,12,3,17
+71,0,"cap, copd, drug inducwd cushing syndrome",clarithromycin,0.5,oral,bd,5,cap,2019,12,3,17
+54,1,"cap, h1n1(+)",cefoperazone,1.0,iv,bd,14,cap,2019,12,3,14
+54,1,"cap, h1n1(+)",cefixime,0.2,oral,bd,7,cap,2019,12,3,14
+54,1,"cap, h1n1(+)",clarithromycin,0.5,oral,bd,5,cap,2019,12,3,14
+36,1,"he grade 3, cap",levofloxacin,0.5,iv,od,4,cap,2019,12,3,15
+36,1,"he grade 3, cap",co-amoxiclav,1.2,iv,tds,1,cap,2019,12,3,15
+76,1,"chest infection, cardiogenic shock",ceftriaxone,1.0,iv,od,1,cardiogenic shock,2019,12,3,14
+78,1,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,iv,tds,1,cardiogenic shock,2019,12,3,14
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,ccf,2019,12,3,14
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,iv,tds,1,ccf,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,oral,tds,2,ccf,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",clarithromycin,0.5,oral,bd,4,ccf,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,iv,bd,2,ccf,2019,12,3,16
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,ccf,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,ccf,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,ccf,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,ccf,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,ccf,2019,12,3,14
+16,1,centepede bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,centepede bite,2019,12,3,13
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,iv,bd,2,cerebral infarct,2019,12,3,14
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,oral,od,1,cerebral infarct,2019,12,3,14
+37,1,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",co-amoxiclav,1.2,iv,tds,6,cheat infection,2019,12,3,18
+36,1,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",amikacin,0.5,iv,bd,6,chest indection,2019,12,3,18
+63,1,"acute copd, chest infection",ceftazidime,1.0,iv,tds,4,chest infection,2019,12,3,14
+63,1,"acute copd, chest infection",clarithromycin,1.0,oral,bd,1,chest infection,2019,12,3,14
+63,1,"acute copd, chest infection",cefixime,1.0,oral,bd,7,chest infection,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,iv,bd,6,chest infection,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,iv,bd,5,chest infection,2019,12,3,14
+51,0,"acute sever asthma, chest infection",co-amoxiclav,0.625,oral,tds,5,chest infection,2019,12,3,14
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",co-amoxiclav,1.2,iv,tds,3,chest infection,2019,12,3,16
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",ceftriaxone,1.0,iv,bd,2,chest infection,2019,12,3,16
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",levofloxacin,0.5,oral,od,7,chest infection,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,iv,tds,1,chest infection,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,oral,tds,2,chest infection,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",clarithromycin,0.5,oral,bd,4,chest infection,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,iv,bd,2,chest infection,2019,12,3,16
+19,0,"chest infectio, pid",ceftriaxone,1.0,iv,bd,1,chest infection,2019,12,3,18
+52,1,"chest infection, old stroke, af, ischaemic ihd, type2 dm, newly dx  rvi",amoxicillin+flucloxacillin,0.5,iv,qid,1,chest infection,2019,12,3,17
+20,1,"chest infection,  retro (+)",ceftriaxone,1.0,iv,bd,1,chest infection,2019,12,3,15
+20,1,"chest infection,  retro(+)",septrin,0.14225000000000004,oral,od,1,chest infection,2019,12,3,15
+76,0,"ccf,chest infection, af ē rvr",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,15
+76,0,"ccf,chest infection, af ē rvr",cefipime,1.0,iv,bd,1,chest infection,2019,12,3,15
+76,0,"ccf,chest infection, af ē rvr",levofloxacin,1.0,iv,bd,1,chest infection,2019,12,3,15
+76,0,"ccf,chest infection, af ē rvr",clarithromycin,0.5,oral,bd,1,chest infection,2019,12,3,15
+80,1,acute exacerbation of copd,co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,15
+60,1,"ccf with hypertension, dm, chest infection",ceftriaxone,1.0,iv,bd,7,chest infection,2019,12,3,16
+71,0,"copd, chest infection",co-amoxiclav,1.2,iv,tds,4,chest infection,2019,12,3,16
+75,1,"ckd, generalized edema, ihd, hypertension, chest infection (right upper zone)",ceftriaxone,1.0,iv,od,5,chest infection,2019,12,3,16
+82,1,"chest infection, copd, icm(ef) 29%, type 2 dm",ceftazidime,1.0,iv,tds,1,chest infection,2019,12,3,16
+82,1,"chest infection, copd, icm(ef) 29%, type 2 dm",ceftazidime,1.0,iv,bd,1,chest infection,2019,12,3,16
+82,1,"chest infection, copd, icm(ef) 29%, type 2 dm",cefixime,0.2,oral,bd,5,chest infection,2019,12,3,16
+77,0,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",ceftriaxone,1.0,iv,tds,1,chest infection,2019,12,3,16
+77,0,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,16
+77,0,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",co-amoxiclav,0.625,oral,tds,10,chest infection,2019,12,3,16
+77,0,"copd, chest infection, hypertension, newly dx dm, t2 resp:failure(resolved)",clarithromycin,0.5,oral,bd,10,chest infection,2019,12,3,16
+57,1,"col, massive ascities, chest infection",ceftriaxone,1.0,iv,bd,3,chest infection,2019,12,3,16
+51,1,"copd, chest infection, ihd, koch's lung, newly dx dm",ceftazidine,1.0,iv,tds,8,chest infection,2019,12,3,16
+51,1,"copd, chest infection, ihd, koch's lung, newly dx dm",linezolid,0.6,oral,bd,7,chest infection,2019,12,3,16
+20,1,"chest infection, u/l inflammatory arthropathy on steroid, hepatitis",ceftriaxone,1.0,iv,bd,9,chest infection,2019,12,3,16
+19,0,"chest infection, pid",metronidazole,0.75,iv,tds,3,chest infection,2019,12,3,16
+73,1,"copd, chest infection, ccf",co-amoxiclav,1.2,iv,tds,4,chest infection,2019,12,3,16
+52,1,"chest infection,  old stroke,  af,  is he mic hd,  type2 dm,  newly dx rvi",ceftriaxone,1.0,iv,bd,5,chest infection,2019,12,3,16
+52,1,"chest infection, old stoke, af, ischaemic ihd, type2 dm, newly dx rvi",ceftriaxone,1.0,iv,bd,5,chest infection,2019,12,3,17
+37,1,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",cefixime,0.2,oral,bd,6,chest infection,2019,12,3,18
+37,1,"col,koch's lung, chest infestion, chronic pancreatitis, lumbar spondylosis",clarithromycin,0.5,oral,bd,10,chest infection,2019,12,3,18
+19,0,"chest infectio, pid",metronidazole,0.5,iv,tds,14,chest infection,2019,12,3,18
+19,0,"chest infectio, pid",ceftriaxone+sulbactam,1.0,iv,bd,3,chest infection,2019,12,3,18
+19,0,"chest infectio, pid",cefixime,0.2,oral,tds,14,chest infection,2019,12,3,18
+44,1,"hepatic encephalopathy, cirrhosis of liver, hypokalemia, chest infection",ceftriaxone,1.0,iv,bd,5,chest infection,2019,12,3,13
+44,1,"hepatic encephalopathy, cirrhosis of liver, hypokalaemia, chest infection",rifaximin,0.55,oral,bd,1,chest infection,2019,12,3,13
+74,0,"copd,  type 2dm,  ckd",ceftazidime,1.0,iv,od,1,chest infection,2019,12,3,14
+43,1,"dka, chest infection, pancreatic dm",ceftriaxone,1.0,iv,bd,3,chest infection,2019,12,3,14
+43,0,"dka, chest infection, pancreatic dm",cefoperazone,1.0,iv,bd,4,chest infection,2019,12,3,14
+43,1,"dka, chest infection, pancreatic dm",cefixime,0.2,oral,bd,1,chest infection,2019,12,3,14
+75,0,acute on chronic heart failure,co-amoxiclav,1.2,iv,tds,5,chest infection,2019,12,3,15
+68,0,"ccf, chest infection, uncontrolled type 2 dm, ihd",ceftriaxone,1.0,iv,bd,3,chest infection,2019,12,3,16
+52,1,"af,  is he mic hd,  type2 dm,  newly dx rvi",amoxicillin+flucoxiacillin,0.5,iv,qid,1,chest infection,2019,12,3,16
+48,1,chest infection with renal impairment,levofloxacin,0.5,iv,bd,3,chest infection,2019,12,3,16
+48,1,chest infection with renal impairment,linezolid,0.6,oral,bd,1,chest infection,2019,12,3,16
+64,1,"ccf precipated by chest infection,  ckd,  uti",cefepime,1.0,iv,bd,5,chest infection,2019,12,3,16
+52,1,"chest infection, copd",ceftriaxone,1.0,iv,bd,4,chest infection,2019,12,3,16
+52,1,"chest infection, copd",clarithromycin,0.5,oral,bd,4,chest infection,2019,12,3,16
+52,1,"chest infection, copd",co-amoxiclav,2.0,iv,tds,4,chest infection,2019,12,3,16
+76,1,"chest infection, cardiogenic shock",ceftriaxone,1.0,iv,od,1,chest infection,2019,12,3,14
+25,1,"tb,  hbv",cefepime,0.5,iv,od,1,chest infection,2019,12,3,16
+25,1,"tb,  hbv",co-amoxiclav,0.6,iv,tds,8,chest infection,2019,12,3,16
+52,0,"upper gi bleeding d/t analgesis, art defaultes, rvi, chest infection, koch's lung",co-amoxiclav,1.2,iv,tds,6,chest infection,2019,12,3,16
+60,0,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,oral,tds,2,chest infection,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,iv,tds,5,chest infection,2019,12,3,14
+65,1,"multiple myeloma, acute ge",co-amoxiclav,0.6,iv,bd,2,chest infection,2019,12,3,15
+65,1,"multiple myeloma, acute ge",levofloxacin,0.5,oral,od,10,chest infection,2019,12,3,15
+65,1,"multiple myeloma, acute ge",levofloxacin,0.5,iv,od,10,chest infection,2019,12,3,15
+65,1,"multiple myeloma, acute ge",cefoperazone,1.0,iv,bd,10,chest infection,2019,12,3,15
+64,1,"ccf precipated by chest infection, old anterior mi, ckd, uti",ceftriaxone,1.0,iv,bd,2,chest infection,2019,12,3,16
+67,0,"consolidation, chest infection, aki",co-amoxiclav,1.2,iv,tds,5,chest infection,2019,12,3,14
+67,0,"consolidation, chest infection, aki",clarithromycin,0.5,oral,bd,10,chest infection,2019,12,3,14
+74,0,"copd, chest infection",ceftazidime,1.0,iv,tds,1,chest infection,2019,12,3,14
+78,1,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,chest infection,2019,12,3,14
+68,0,ihd,co-amoxiclav,1.2,iv,tds,4,chest infection,2019,12,3,15
+68,0,ihd,cefixime,0.2,oral,bd,1,chest infection,2019,12,3,15
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",clarthromycin,0.5,oral,bd,1,chest infection,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,0.625,oral,tds,1,chest infection,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",ceftriaxone,1.0,iv,bd,1,chest infection,2019,12,3,14
+73,0,"svt,  chest infection,  old koch'lung,  hypokalemia",co-amoxiclav,1.2,iv,tds,4,chest infection,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",ceftriaxone,1.0,iv,od,1,chest infection,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",co-amoxiclav,1.2,iv,tds,1,chest infection,2019,12,3,14
+48,1,"systematic hypoglycemia,  chest infection,  alcoholic col,  addision's disease",metronidazole,0.75,iv,tds,1,chest infection,2019,12,3,14
+46,1,"early col, uti, chest infection",ceftriaxone,1.0,iv,bd,4,chest infection,2019,12,3,16
+46,1,"early col, uti, chest infection",cefixime,0.2,oral,bd,5,chest infection,2019,12,3,16
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,chest infection,2019,12,3,14
+29,0,"right lobe consolidation chest infection,  thrombocytopenia",clarithromycin,0.5,oral,bd,5,chest infection,2019,12,3,14
+29,0,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,oral,tds,3,chest infection,2019,12,3,14
+45,1,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,iv,tds,1,chronic alcoholic,2019,12,3,16
+45,1,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,iv,bd,1,chronic alcoholic,2019,12,3,16
+31,1,"pancreatitis, chronic alcoholics",ceftriaxone,1.0,iv,bd,4,chronic alcoholic,2019,12,3,14
+48,0,"ccf, ckd",septrin,0.48,oral,bd,1,chronic cardiac failure,2019,12,3,14
+48,0,"ccf, ckd",septrin,0.48,oral,od,3,chronic cardiac failure,2019,12,3,14
+82,1,"chronic cardiac failure ppt by poor drug compliance, degenerative valve disease",co-amoxiclav,0.625,oral,tds,5,chronic cardiac failure,2019,12,3,15
+48,0,"ccf, ckd",cefoperazone,1.0,iv,bd,4,chronic cardiac failure,2019,12,3,14
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,chronic cardiac failure,2019,12,3,14
+38,1,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,iv,bd,2,chronic diarrhoea,2019,12,3,14
+38,1,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,iv,bd,2,chronic pancreatitis,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,1.2,iv,tds,1,ckd,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",clarthromycin,0.5,oral,bd,1,ckd,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,0.625,oral,tds,1,ckd,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",ceftriaxone,1.0,iv,bd,1,ckd,2019,12,3,14
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,ckd,2019,12,3,14
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,ckd,2019,12,3,14
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,ckd,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,ckd,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,ckd,2019,12,3,16
+29,0,clinical malaria,ceftriaxone,1.0,iv,bd,6,clinical malaria,2019,12,3,14
+29,0,clinical malaria,ciprofloxacin,0.5,oral,bd,1,clinical malaria,2019,12,3,14
+53,1,"alcoholic hepatitis,  alcohol col",ceftriaxone,1.0,iv,bd,5,col,2019,12,3,16
+29,1,col,ceftriaxone,1.0,iv,bd,1,col,2019,12,3,15
+38,1,"alcoholic  col, ascites",ceftazidine,1.0,iv,tds,1,col,2019,12,3,15
+38,1,"col, ascites",ceftriaxone,1.0,iv,bd,2,col,2019,12,3,15
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,iv,bd,4,col,2019,12,3,16
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,oral,bd,3,col,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,iv,bd,1,col,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,oral,bd,1,col,2019,12,3,16
+37,1,"massive ascites, col, portal hypertension",ceftriaxone,1.0,iv,bd,4,col,2019,12,3,16
+37,1,"massive ascites, col, portal hypertension",septrin,0.96,oral,od,1,col,2019,12,3,16
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",ceftriaxone,1.0,iv,od,1,col,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",co-amoxiclav,1.2,iv,tds,1,col,2019,12,3,14
+48,1,"systematic hypoglycemia,  chest infection,  alcoholic col,  addision's disease",metronidazole,0.75,iv,tds,1,col,2019,12,3,14
+53,1,"b(+), col, gastritis",ceftriaxone,1.0,iv,bd,1,col,2019,12,3,14
+47,1,"hypokakaemia, col",levofloxacin,0.5,oral,od,2,col,2019,12,3,15
+36,1,col e portal hypertension,metronidazole,0.2,oral,tds,1,col,2019,12,3,16
+44,1,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,iv,bd,1,col,2019,12,3,14
+64,1,"hcv(+), col, koch’s lung",ceftriaxone,1.0,iv,bd,1,col,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,col,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,col,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,iv,bd,3,col,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,oral,bd,3,col,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",cefixime,0.2,oral,bd,3,col,2019,12,3,14
+45,1,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,iv,tds,1,col,2019,12,3,15
+45,1,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,iv,bd,2,col,2019,12,3,15
+66,1,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,oral,bd,14,col,2019,12,3,16
+66,1,"alcoholic gastritis, early col, hypertension",clarithromycin,0.5,oral,bd,14,col,2019,12,3,16
+48,0,"he, rvi with col",ceftriaxone,1.0,iv,od,8,col,2019,12,3,15
+48,0,"he,  rvi with col",levofloxacin,0.25,iv,od,3,col,2019,12,3,15
+48,0,"he,  rvi with col",ceftriaxone,1.0,iv,bd,8,col,2019,12,3,15
+48,0,"he, rvi with col",levofloxacin,0.5,iv,od,8,col,2019,12,3,15
+48,0,"he,  rvi with col",rifaximin,0.55,oral,bd,1,col,2019,12,3,15
+48,0,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,oral,tds,7,confusion,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,im,od,1,confusion,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",levofloxacin,0.75,oral,od,1,confusion,2019,12,3,14
+67,0,"consolidation, chest infection, aki",co-amoxiclav,1.2,iv,tds,5,consolidation,2019,12,3,14
+67,0,"consolidation, chest infection, aki",clarithromycin,0.5,oral,bd,10,consolidation,2019,12,3,14
+63,1,"acute copd, chest infection",ceftazidime,1.0,iv,tds,4,copd,2019,12,3,14
+63,1,"acute copd, chest infection",clarithromycin,1.0,oral,bd,1,copd,2019,12,3,14
+63,1,"acute copd, chest infection",cefixime,1.0,oral,bd,7,copd,2019,12,3,14
+67,0,"dm, copd, koch's lung, cor pulmonale",ceftriaxone,1.0,iv,bd,3,copd,2019,12,3,16
+67,0,"dm, copd, koch's lung, cor pulmonale",cefixime,0.14225000000000004,oral,bd,5,copd,2019,12,3,16
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",co-amoxiclav,1.2,iv,tds,3,copd,2019,12,3,16
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",ceftriaxone,1.0,iv,bd,2,copd,2019,12,3,16
+53,0,"copd, chest infection, ihd, hypertension, newly dx dm",levofloxacin,0.5,oral,od,7,copd,2019,12,3,16
+52,1,"chest infection, copd",ceftriaxone,1.0,iv,bd,4,copd,2019,12,3,16
+52,1,"chest infection, copd",clarithromycin,0.5,oral,bd,4,copd,2019,12,3,16
+52,1,"chest infection, copd",co-amoxiclav,2.0,iv,tds,4,copd,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,iv,tds,1,copd,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,oral,tds,2,copd,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",clarithromycin,0.5,oral,bd,4,copd,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,iv,bd,2,copd,2019,12,3,16
+74,0,"copd, chest infection",ceftazidime,1.0,iv,tds,1,copd,2019,12,3,14
+78,1,"copd, chest infection, cardiogenic shock",co-amoxiclav,1.2,iv,tds,1,copd,2019,12,3,14
+67,1,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,iv,tds,5,copd,2019,12,3,13
+58,1,"copd, piles, cva",ceftazidime,1.0,iv,tds,6,copd,2019,12,3,14
+78,1,"lung consodilation(rlz) , copd",co-amoxiclav,1.2,iv,tds,1,copd,2019,12,3,14
+78,1,"lung condilation(rlz), cpod",clarithromycin,0.5,oral,bd,10,copd,2019,12,3,14
+72,0,"copd ppt chest infection, old koch,s lung",co-amoxiclav,1.2,iv,tds,1,"copd, chest infection",2019,12,3,14
+72,0,"copd ppt chest infection, koch's lung",ceftriaxone,1.0,iv,tds,5,"copd, chest infection",2019,12,3,14
+67,1,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,iv,tds,5,cor pulmonale,2019,12,3,13
+33,1,"cryptococcal meningitis, pre-renal acute kidney injury, rvi stage 4",ceftriaxone,2.0,iv,bd,6,cryptococcal meningitis,2019,12,3,16
+33,1,"cryptococcal meningitis, pre-renal acute kidney injury, rvi stage 4",septrin,0.96,oral,od,5,cryptococcal meningitis,2019,12,3,16
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,cuf,2019,12,3,14
+58,1,"copd, piles, cva",ceftazidime,1.0,iv,tds,6,cva,2019,12,3,14
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,iv,tds,5,deep vein thrombosis of left leg,2019,12,3,14
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefipime,1.0,iv,bd,1,deep vein thrombosis of left leg,2019,12,3,14
+86,0,"haemoptysis, tb , degenerative mr",co-amoxiclav,1.2,iv,tds,3,degenerative mr,2019,12,3,14
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,116.01749999999731,oral,tds,5,dental caries,2019,12,3,15
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,iv,bd,1,dental caries,2019,12,3,15
+13,1,"t/t for prolong fever,  dengue fever",ceftriaxone,0.5,iv,bd,4,dhf,2019,12,3,14
+13,1,"t/t for prolong fever,  dengue fever",cefixime,0.2,oral,bd,3,dhf,2019,12,3,14
+13,1,dhf,cefixime,0.2,oral,bd,5,dhf,2019,12,3,14
+14,1,dhf,cefixime,0.2,oral,bd,5,dhf,2019,12,3,16
+13,1,dhf,ceftriaxone,1.0,iv,bd,4,dhf,2019,12,3,14
+15,1,dhf with warning signs,ceftriaxone,1.0,iv,bd,7,dhf,2019,12,3,14
+15,1,dhf with warning signs,metronidazole,0.75,iv,tds,7,dhf,2019,12,3,14
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,116.01749999999731,oral,tds,5,discharge fits,2019,12,3,15
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,iv,bd,1,discharge fits,2019,12,3,15
+29,0,discharge uti,ciprofloxacin,0.5,oral,od,1,discharge uti,2019,12,3,15
+41,1,"right leg cellulitis, col, duodenal erosion, rvi satge",amoxicillin+flucoxacillin,0.5,oral,tds,5,duodenal erosion,2019,12,3,15
+41,1,"right leg cellulitis, col, duodenal erosion, rvi stage 2",amoxicillin+flucloxacillin,1.0,iv,qid,8,duodenal erosion,2019,12,3,15
+41,1,"right leg cellulitis, col, duodenal erosion, rvi satge 2",clindamycin,0.5,oral,tds,1,duodenal erosion,2019,12,3,15
+86,0,"sick sinus syndrome, ccf, poor drug adherence, ihd",ceftriaxone,1.0,iv,bd,4,dyspnoea,2019,12,3,15
+30,0,"rhd, severe ms, mild tr, severe pol ht, large slot in la, on warfarinization",pen v,0.25,oral,bd,1,dyspnoea,2019,12,3,15
+86,0,"sick sinus syndrome, ccf, poor drug adherence, ihd",cefixime,0.2,oral,bd,3,dyspnoea,2019,12,3,15
+19,1,electrocution left hand,amoxicillin+flucloxacillin,0.25,oral,tds,5,electrocution left hand,2019,12,3,16
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,iv,tds,1,empyema,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,iv,tds,14,empyema,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,oral,tds,7,esophagocutaneous fistula,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,im,od,1,esophagocutaneous fistula,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",levofloxacin,0.75,oral,od,1,esophagocutaneous fistula,2019,12,3,14
+52,1,esrd,cefixime,0.2,oral,bd,5,esrd,2019,12,3,15
+52,1,esrd,co-amoxiclav,0.6,oral,od,1,esrd,2019,12,3,15
+52,1,esrd,co-amoxiclav,1.2,iv,od,1,esrd,2019,12,3,15
+52,1,esrd,ceftriaxone+sulbactam,1.0,iv,bd,4,esrd,2019,12,3,15
+38,1,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoparazone+sulbactam,2.0,iv,bd,10,extensive koch's lung,2019,12,3,15
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,116.01749999999731,oral,tds,5,facial injury,2019,12,3,15
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,iv,bd,1,facial injury,2019,12,3,15
+19,0,avi,ceftriaxone,1.0,iv,bd,2,fainting attack,2019,12,3,15
+28,1,febrile convulsion d/t avi,cefixime,0.14225000000000004,oral,bd,1,febrile convulsion d/t avi,2019,12,3,14
+13,1,fever with malaena,flucloxacillin,0.14225000000000004,oral,bd,1,fever,2019,12,3,16
+22,1,fever with capopedal spasm,ceftriaxone,1.0,iv,bd,3,fever,2019,12,3,16
+22,1,fever with capopedal spasm,cefixime,0.2,oral,bd,5,fever,2019,12,3,16
+70,1,avi,ceftriaxone,2.0,iv,bd,7,fever,2019,12,3,15
+70,1,avi,levofloxacin,0.25,iv,od,7,fever,2019,12,3,15
+70,1,avi,metronidazole,0.75,iv,tds,7,fever,2019,12,3,15
+63,0,"fever, dyspnoea",imipenem,0.5,iv,tds,7,fever,2019,12,3,13
+22,1,malaria,ceftriaxone,1.0,iv,bd,4,fever,2019,12,3,15
+22,1,malaria,doxycycline,0.14225000000000004,oral,bd,7,fever,2019,12,3,15
+19,1,avi,co-amoxiclav,0.625,oral,tds,3,fever,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,iv,bd,2,fever,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,iv,bd,8,fever,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,iv,tds,2,fever,2019,12,3,14
+48,0,"he,  rvi with col",rifaximin,0.55,oral,bd,1,fever,2019,12,3,15
+15,1,flaccid paraparesis,amoxicillin+flucloxacillin,0.5,oral,qid,1,flaccid paraparesis,2019,12,3,15
+32,1,"food poisoing, acute ge, some dehydration",norfloxacin,0.4,oral,bd,3,food poisoing,2019,12,3,14
+47,1,centipede bite,amoxicillin+flucloxacillin,0.5,oral,tds,1,for killing according bacteria,2019,12,3,15
+43,1,"hma, dm, dkd",clarithromycin,0.5,oral,bd,14,for ogd scopy,2019,12,3,15
+43,1,"hma, dm, dkd",amoxiclav,1.0,oral,bd,14,for ogd scopy,2019,12,3,15
+53,1,"b(+), col, gastritis",ceftriaxone,1.0,iv,bd,1,gastritis,2019,12,3,14
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,general debility e excessive vomitting,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,general debility e excessive vomitting,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,general debility e excessive vomitting,2019,12,3,16
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,iv,tds,5,gi bleeding,2019,12,3,14
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefipime,1.0,iv,bd,1,gi bleeding,2019,12,3,14
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,2.0,iv,bd,2,glandular fever,2019,12,3,16
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",cefixime,0.2,oral,bd,1,glandular fever,2019,12,3,16
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,1.0,iv,bd,2,glandular fever,2019,12,3,16
+22,0,green snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,14
+55,0,green snake bite,amoxicillin+flucoxacillin,0.5,oral,tds,1,snake bite,2019,12,3,14
+51,0,green snake bite,amoxicillin+flucloaxcin,0.5,oral,tds,5,snake bite,2019,12,3,14
+35,0,green snake bite,amoxicillin+flucloxacillin,0.5,oral,qid,5,snake bite,2019,12,3,15
+58,1,green snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,15
+58,1,green snake bite,dazolic,0.5,oral,bd,1,snake bite,2019,12,3,15
+68,1,green snake bite,amoxicillin+flucloxacillin,0.25,oral,tds,5,snake bite,2019,12,3,16
+32,1,green snake bite,amoxicillin+flucloxacillin,0.25,oral,tds,3,snake bite,2019,12,3,16
+58,1,green snake bite,metronidazole,0.75,iv,tds,1,snake bite,2019,12,3,15
+53,1,green snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,15
+54,1,"cap, h1n1(+)",cefoperazone,1.0,iv,bd,14,h1n1(+),2019,12,3,14
+54,1,"cap, h1n1(+)",cefixime,0.2,oral,bd,7,h1n1(+),2019,12,3,14
+54,1,"cap, h1n1(+)",clarithromycin,0.5,oral,bd,5,h1n1(+),2019,12,3,14
+13,1,"haematological,  maglinancy",cefaziclime,1.0,iv,tds,5,haematological,2019,12,3,13
+13,1,"haematological,  maglinancy",amikacin,0.25,iv,bd,5,haematological,2019,12,3,13
+86,0,"haemoptysis, tb , degenerative mr",co-amoxiclav,1.2,iv,tds,3,haemoptysis,2019,12,3,14
+58,0,"mitral valve prolapse, haemoptysis",ceftriaxone,1.0,iv,bd,3,haemoptysis and epistaxis,2019,12,3,15
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,iv,bd,1,hbs ag(+),2019,12,3,14
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",levofloxacin,0.2,oral,od,7,hbs ag(+),2019,12,3,14
+25,1,"tb,  hbv",cefepime,0.5,iv,od,1,hbv infection,2019,12,3,16
+25,1,"tb,  hbv",co-amoxiclav,0.6,iv,tds,8,hbv infection,2019,12,3,16
+42,0,"koch's lung, hbv infection",cefixime,0.2,oral,bd,5,hbv infection,2019,12,3,15
+59,1,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",ceftriaxone,1.0,iv,bd,7,hcv,2019,12,3,16
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",rifaximin,0.55,oral,bd,7,hcv,2019,12,3,15
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",cefixime,0.2,oral,bd,7,hcv,2019,12,3,15
+40,1,"hyponetrimia, hcv(+), hepatic encephalopathy, aspiration pneumonia",metronidazole,0.25,oral,tds,7,hcv,2019,12,3,15
+59,1,"right sided hemoporesis territory cerebral infarct,  hcv,  ospiration pneumonia",metronidazole,0.75,iv,tds,7,hcv,2019,12,3,16
+42,1,left sided pulmonary tb,ceftriaxone,1.0,iv,bd,6,hcv,2019,12,3,16
+64,1,"hcv(+), col, koch’s lung",ceftriaxone,1.0,iv,bd,1,hcv,2019,12,3,14
+24,1,"left empyema , hcv infection",ceftiaxone,1.0,iv,bd,1,hcv,2019,12,3,14
+24,1,"left empyema , hcv infection",co-amoxiclav,1.5,iv,tds,1,hcv,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,hcv,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,hcv,2019,12,3,14
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,hcv,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,hcv,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,hcv,2019,12,3,16
+44,1,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,iv,bd,1,he,2019,12,3,14
+46,1,"he,  alcoholic hepatitis,  col,  portal ht,  hma,  uti",linezolid,0.6,oral,bd,7,he,2019,12,3,15
+46,1,"he,  alcoholic hepatitis,  col,  portal ht,  hma,  uti",cefteiaxone,1.0,iv,bd,3,he,2019,12,3,15
+46,1,"he,  alcoholic hepatitis,  alcohol col,  portal ht,  hma, uti",co-amoxiclav,1.2,iv,tds,4,he,2019,12,3,15
+46,1,"he, alcoholic hepatitis,  col,  portal ht,  hma,  uti",rifaximin,0.55,oral,bd,14,he,2019,12,3,15
+40,1,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,iv,bd,1,he,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,oral,bd,1,he,2019,12,3,16
+54,1,"he, hypokalemia,  ich",ceftriaxone,2.0,iv,bd,2,he,2019,12,3,14
+36,1,"he grade 3, cap",levofloxacin,0.5,iv,od,4,he,2019,12,3,15
+36,1,"he grade 3, cap",co-amoxiclav,1.2,iv,tds,1,he,2019,12,3,15
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,heart failure,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,heart failure,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,iv,bd,3,hepatic encephalopathy,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,oral,bd,3,hepatic encephalopathy,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",cefixime,0.2,oral,bd,3,hepatic encephalopathy,2019,12,3,14
+45,1,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,iv,tds,1,hepatic encephalopathy,2019,12,3,15
+45,1,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,iv,bd,2,hepatic encephalopathy,2019,12,3,15
+44,1,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,iv,bd,1,hepatitis,2019,12,3,14
+40,1,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,iv,bd,1,hepatitis,2019,12,3,13
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,oral,od,1,hepatitis,2019,12,3,14
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,iv,bd,5,hepatitis,2019,12,3,14
+31,0,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefipime,1.0,iv,bd,4,hepatitis,2019,12,3,14
+18,1,"hepatitis b,",amoxicillin+flucloxacillin,1.0,oral,tds,5,hepatitis,2019,12,3,14
+62,0,hcv(+)col,levofloxacin,0.5,iv,od,6,hepatitis encephalopathy,2019,12,3,16
+62,0,hcv(+)col,ceftriaxone,1.0,iv,bd,6,hepatitis encephalopathy,2019,12,3,16
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,iv,bd,2,herpes encephalitis,2019,12,3,14
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,oral,od,1,herpes encephalitis,2019,12,3,14
+48,0,"he, rvi with col",ceftriaxone,1.0,iv,od,8,high fever,2019,12,3,15
+48,0,"he,  rvi with col",levofloxacin,0.25,iv,od,3,high fever,2019,12,3,15
+48,0,"he,  rvi with col",ceftriaxone,1.0,iv,bd,8,high fever,2019,12,3,15
+48,0,"he, rvi with col",levofloxacin,0.5,iv,od,8,high fever,2019,12,3,15
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,iv,bd,4,hiv,2019,12,3,16
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,oral,bd,3,hiv,2019,12,3,16
+44,1,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,iv,bd,1,hk,2019,12,3,14
+40,1,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,iv,bd,1,hrs,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,oral,bd,1,hrs,2019,12,3,16
+82,1,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,iv,bd,3,ht,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",cefipime,1.0,iv,bd,5,ht,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,oral,od,3,ht,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,iv,tds,3,ht,2019,12,3,15
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,ht,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,ht,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,ht,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,oral,tds,2,hydronephrosis,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,iv,tds,5,hydronephrosis,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,iv,tds,1,hydropneumothorax,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,iv,tds,14,hydropneumothorax,2019,12,3,14
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,hypertension,2019,12,3,14
+66,1,"alcoholic gastritis, early col, hypertension",amoxicillin,0.5,oral,bd,14,hypertension,2019,12,3,16
+66,1,"alcoholic gastritis, early col, hypertension",clarithromycin,0.5,oral,bd,14,hypertension,2019,12,3,16
+78,0,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,iv,tds,8,hypertension,2019,12,3,14
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,iv,bd,1,hypertension,2019,12,3,16
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,iv,tds,1,hypertension,2019,12,3,16
+62,0,"urinary tract infection,  type 2dm, af,  hypertension",co-amoxiclav,1.2,iv,tds,1,hypertension,2019,12,3,14
+62,0,"urinay tract infection,  type 2dm,  af,  hypertension",cefepime,1.0,iv,bd,5,hypertension,2019,12,3,14
+78,0,"type 2 dm, hypoglycaemia, ihr",cefixime,0.2,oral,bd,5,hypoglycaemia,2019,12,3,15
+41,1,"hepatic encephalopathy, col, hypokalaemia",ceftriaxone,1.0,iv,bd,3,hypokalaemia,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",rifaximin,0.55,oral,bd,3,hypokalaemia,2019,12,3,14
+41,1,"hepatic encephalopathy, col, hypokalaemia",cefixime,0.2,oral,bd,3,hypokalaemia,2019,12,3,14
+54,1,"he, hypokalemia,  ich",ceftriaxone,2.0,iv,bd,2,hypokalemia,2019,12,3,14
+73,0,"svt,  chest infection,  old koch'lung,  hypokalemia",co-amoxiclav,1.2,iv,tds,4,hypokalemia,2019,12,3,14
+44,0,"ureteric stone, uti",ceftriaxone,1.0,iv,bd,7,i/t for generalized edema,2019,12,3,15
+54,1,"he, hypokalemia,  ich",ceftriaxone,2.0,iv,bd,2,ich,2019,12,3,14
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,ida,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,iv,bd,6,ihd,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,iv,bd,5,ihd,2019,12,3,14
+67,1,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,iv,tds,5,ihd,2019,12,3,13
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,1.2,iv,tds,1,ihd,2019,12,3,14
+60,0,"heart failure, hcv, col, ihd, ccf, chest infection",co-amoxiclav,0.625,oral,od,5,ihd,2019,12,3,14
+68,0,ihd,co-amoxiclav,1.2,iv,tds,4,ihd,2019,12,3,15
+68,0,ihd,cefixime,0.2,oral,bd,1,ihd,2019,12,3,15
+78,0,"type 2 dm, hypoglycaemia, ihr",cefixime,0.2,oral,bd,5,ihd,2019,12,3,15
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,iv,bd,1,ihd,2019,12,3,16
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,iv,tds,1,ihd,2019,12,3,16
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,iv,bd,1,ihd,2019,12,3,14
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",levofloxacin,0.2,oral,od,7,ihd,2019,12,3,14
+62,0,"ulcer at left leg,  impaired glucose tolerance",cefixime,0.2,oral,bd,5,impaired glucose tolerance,2019,12,3,14
+62,0,"ulcer at left leg, impaired glucose tolerance",metronidazole,0.75,iv,tds,6,impaired glucose tolerance,2019,12,3,14
+62,0,"ulcer at left leg,  impaired glucose tolerence",ceftazidime,1.0,iv,tds,6,impaired glucose tolerence,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,increased lft,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,increased lft,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,increased lft,2019,12,3,14
+19,1,"dka, otita media, cellulitis, type 2 dm",vancomycin,1.0,iv,bd,10,infection,2019,12,3,15
+19,1,"dka, otita media, cellulitis, type 2 dm",levofloxacin,0.5,iv,bd,11,infection,2019,12,3,15
+19,1,"dka, otita media, cellulitis, type 2 dm",clindamycin,0.3,iv,tds,10,infection,2019,12,3,15
+19,1,"dka, otita media, cellulitis, type 2 dm",metronidazole,0.75,iv,tds,8,infection,2019,12,3,15
+19,1,"dka, otita media, cellulitis, type 2 dm",cefepime,1.0,iv,tds,2,infection,2019,12,3,15
+50,1,intracerebral haemorrhage,metronidazole,0.75,iv,tds,1,intracerebral haemorrhage,2019,12,3,14
+50,1,intracerebral haemorrhage,ceftriaxone,1.0,iv,bd,1,intracerebral haemorrhage,2019,12,3,14
+50,1,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,iv,bd,4,joint pain,2019,12,3,16
+78,0,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,iv,tds,8,klebsiella pneumonia,2019,12,3,14
+45,1,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,iv,tds,1,koch's lung,2019,12,3,16
+45,1,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,iv,bd,1,koch's lung,2019,12,3,16
+52,0,"upper gi bleeding d/t analgesis, art defaultes, rvi, chest infection, koch's lung",co-amoxiclav,1.2,iv,tds,6,koch's lung,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,iv,bd,1,koch's lung,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,oral,bd,1,koch's lung,2019,12,3,16
+65,1,koch's lung,co-amoxiclav,0.625,oral,tds,5,koch's lung,2019,12,3,14
+42,0,"koch's lung, hbv infection",cefixime,0.2,oral,bd,5,koch's lung,2019,12,3,15
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,koch's lung,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,koch's lung,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,koch's lung,2019,12,3,14
+72,0,"copd ppt chest infection, old koch,s lung",co-amoxiclav,1.2,iv,tds,1,koch's lung,2019,12,3,14
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,iv,tds,4,koch's lung,2019,12,3,16
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,oral,tds,7,koch's lung,2019,12,3,16
+72,0,"copd ppt chest infection, koch's lung",ceftriaxone,1.0,iv,tds,5,koch's lung,2019,12,3,14
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,iv,tds,1,koch's lung,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,oral,tds,2,koch's lung,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",clarithromycin,0.5,oral,bd,4,koch's lung,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,iv,bd,2,koch's lung,2019,12,3,16
+53,0,"dm, acute ge, koch's lung",ceftriaxone,1.0,iv,bd,3,koch's lung,2019,12,3,16
+53,0,"dm, acute ge, koch's lung",ciprofloxacin,0.5,oral,bd,2,koch's lung,2019,12,3,16
+67,1,"copd, cor pulmonale, ihd, koch’s lung",ceftazidime,1.0,iv,tds,5,koch’s lung,2019,12,3,13
+64,1,"hcv(+), col, koch’s lung",ceftriaxone,1.0,iv,bd,1,koch’s lung,2019,12,3,14
+73,0,"svt,  chest infection,  old koch'lung,  hypokalemia",co-amoxiclav,1.2,iv,tds,4,kochs'lung,2019,12,3,14
+24,1,"left empyema , hcv infection",ceftiaxone,1.0,iv,bd,1,left empyema,2019,12,3,14
+24,1,"left empyema , hcv infection",co-amoxiclav,1.5,iv,tds,1,left empyema,2019,12,3,14
+60,1,left moderate pleural effusion,co-amoxiclav,1.2,iv,tds,5,left moderate pleural effusion,2019,12,3,15
+44,1,"alcohol hepatitis, left pleural effusion",cefexime,0.5,oral,bd,3,left pleural effusion,2019,12,3,15
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",co-amoxiclav,1.2,iv,tds,1,left sided hemiparesis,2019,12,3,14
+76,0,"acute pulmonary edema, left sided hemiparesis, aortic dissection",metronidazole,0.75,iv,tds,1,left sided hemiparesis,2019,12,3,15
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",ceftriaxone,1.0,iv,bd,1,left sided hemiparesis,2019,12,3,16
+74,1,"left sided hemiparesis, acute cerebral infarct, hypertension, ihd",metronidazole,0.75,iv,tds,1,left sided hemiparesis,2019,12,3,16
+23,0,left sided massive tuberculous pleural effusion,co-amoxiclav,0.625,oral,tds,1,left sided massive tuberculous pleural effusion,2019,12,3,14
+46,1,pleural effusion,co-amoxiclav,0.625,oral,tds,5,left sided pleural effusion,2019,12,3,15
+17,0,left sided tension pneumothorax,co-amoxiclav,1.2,iv,tds,7,left sided tension pneumothorax,2019,12,3,15
+40,1,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,iv,bd,1,leptospirosis,2019,12,3,13
+32,1,"prolonged fever ē, hypotension(leptospirosis)",ceftriaxone,1.0,iv,bd,4,leptospirosis,2019,12,3,15
+48,0,"confusion, liver impairment,esophagocutaneous fistula",amoxicillin+flucloxacillin,0.5,oral,tds,7,liver impairment,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",streptomycin,1.0,im,od,1,liver impairment,2019,12,3,14
+48,0,"confusion, liver impairment,esophagocutaneous fistula",levofloxacin,0.75,oral,od,1,liver impairment,2019,12,3,14
+38,1,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoparazone+sulbactam,2.0,iv,bd,10,lrti,2019,12,3,15
+61,1,"ca lung, lung abscess",co-amoxiclav,1.2,iv,tds,3,lung abscess,2019,12,3,15
+61,1,"ca lung, lung abscess",co-amoxiclav,0.625,oral,tds,3,lung abscess,2019,12,3,15
+45,1,"lung abscess, koch lung, chronic alcoholic",metronidazole,0.75,iv,tds,1,lung abscess,2019,12,3,16
+45,1,"lung abscess, koch lung, chronic alcoholic",ceftriaxone,1.0,iv,bd,1,lung abscess,2019,12,3,16
+78,1,"lung condilation(rlz), cpod",clarithromycin,0.5,oral,bd,10,lung consodilation(rlz),2019,12,3,14
+78,1,"lung consodilation(rlz) , copd",co-amoxiclav,1.2,iv,tds,1,lung consodilation(rlz),2019,12,3,14
+25,1,tuberculous lymphadenitis,ceftriaxone,1.0,iv,bd,5,lymphadenitis,2019,12,3,15
+25,1,tuberculous lymphadenitis,cefixime,0.2,oral,bd,5,lymphadenitis,2019,12,3,15
+13,1,"haematological,  maglinancy",cefaziclime,1.0,iv,tds,5,maglinancy,2019,12,3,13
+13,1,"haematological,  maglinancy",amikacin,0.25,iv,bd,5,maglinancy,2019,12,3,13
+37,1,"massive ascites, col, portal hypertension",ceftriaxone,1.0,iv,bd,4,massive ascites,2019,12,3,16
+37,1,"massive ascites, col, portal hypertension",septrin,0.96,oral,od,1,massive ascites,2019,12,3,16
+28,0,measle koch’s lung,cefixime,0.2,oral,bd,7,measle koch’s lung,2019,12,3,14
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",clindamycin,116.01749999999731,oral,tds,5,menilly sinusitis,2019,12,3,15
+23,1,"discharge fits, dental caries, facial injury, menilly sinusitis",ceftriaxone,1.0,iv,bd,1,menilly sinusitis,2019,12,3,15
+22,1,meningoencephalitis,ceftriaxone,1.0,iv,bd,3,meningoencephalitis,2019,12,3,16
+22,1,meningoencephilitis,ceftriaxone,2.0,iv,bd,1,meningoencephilitis,2019,12,3,16
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,mi,2019,12,3,14
+48,1,"miliary tb, acute ge",metronidazole,0.75,iv,tds,1,miliary tb,2019,12,3,16
+48,1,"miliary tb, acute ge",ceftriaxone,1.0,iv,bd,1,miliary tb,2019,12,3,16
+48,1,"miliary tb, acute ge",coamoxiclav,0.625,oral,tds,5,miliary tb,2019,12,3,16
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,iv,bd,2,miliary tb,2019,12,3,14
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,oral,od,1,miliary tb,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,oral,tds,2,multinodular goiter,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,iv,tds,5,multinodular goiter,2019,12,3,14
+65,1,"multiple myeloma, acute ge",co-amoxiclav,0.6,iv,bd,2,multiple myeloma,2019,12,3,15
+65,1,"multiple myeloma, acute ge",levofloxacin,0.5,oral,od,10,multiple myeloma,2019,12,3,15
+65,1,"multiple myeloma, acute ge",levofloxacin,0.5,iv,od,10,multiple myeloma,2019,12,3,15
+65,1,"multiple myeloma, acute ge",cefoperazone,1.0,iv,bd,10,multiple myeloma,2019,12,3,15
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,1.2,iv,tds,1,multiple myeloma,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",clarthromycin,0.5,oral,bd,1,multiple myeloma,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,0.625,oral,tds,1,multiple myeloma,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",ceftriaxone,1.0,iv,bd,1,multiple myeloma,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,iv,tds,1,myoma uterus,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,iv,tds,14,myoma uterus,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,iv,bd,2,neutropenia,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,iv,bd,8,neutropenia,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,iv,tds,2,neutropenia,2019,12,3,14
+78,0,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,iv,tds,8,old stroke,2019,12,3,14
+86,0,"pad(lt u.l), be amputation,/post op, akt",ceftriaxone,1.0,iv,bd,1,pad(lt u.l),2019,12,3,16
+31,1,"pancreatitis, chronic alcoholics",ceftriaxone,1.0,iv,bd,4,pancreatitis,2019,12,3,14
+40,1,"pcp, septic shock",co-amoxiclav,1.2,iv,tds,1,pcp,2019,12,3,14
+40,1,"pcp, septic shock",septrin,0.96,oral,tds,1,pcp,2019,12,3,14
+31,0,pe in distal branches of left lung pul arteries,clarithromycin,0.5,oral,bd,7,pe in distal branches of left lung pul arteries,2019,12,3,14
+31,0,pe in distal branches of left lung pul arteries,ceftriaxone,1.0,iv,bd,2,pe in distal branches of left lung pul arteries,2019,12,3,14
+31,0,pe in distal bronchi of left lung pulmonary arteries,co-amoxiclav,1.2,iv,tds,10,pe in distal bronchi of left lung pulmonary arteries,2019,12,3,14
+17,1,anaphylaxis (?penicillin),clindamycin,0.3,oral,tds,1,penicillin allergy(wound infection),2019,12,3,16
+28,0,"chikungunya, rash",ceftriaxone,1.0,iv,bd,5,penicillin induced drug reaction,2019,12,3,13
+56,1,"alcoholic hepatitis, col, he, hypokalaemia",ceftriaxone,1.0,iv,bd,4,periodic hypokalaemic paralysis,2019,12,3,15
+58,1,"copd, piles, cva",ceftazidime,1.0,iv,tds,6,piles,2019,12,3,14
+35,1,pleural effusion,co-amoxiclav,0.625,iv,od,1,pleural effusion,2019,12,3,14
+35,1,pleural effusion,septrin,0.96,oral,od,1,pleural effusion,2019,12,3,14
+71,1,"rvi stage 2, polyerythremia",septrin,116.01749999999731,oral,od,1,polyerythremia,2019,12,3,14
+40,1,"he, col, portal hypertension, hrs, koch's lung",ceftriaxone,1.0,iv,bd,1,portal hypertension,2019,12,3,16
+40,1,"he, col, portal hypertension, hrs, koch's lung",rifampicin,0.55,oral,bd,1,portal hypertension,2019,12,3,16
+37,1,"massive ascites, col, portal hypertension",ceftriaxone,1.0,iv,bd,4,portal hypertension,2019,12,3,16
+37,1,"massive ascites, col, portal hypertension",septrin,0.96,oral,od,1,portal hypertension,2019,12,3,16
+49,0,"bppv, type2 dm, postural hypertension",ceftriaxone,1.0,iv,bd,1,postural hypertension,2019,12,3,14
+49,0,"bppv, type2 dm, postural hypertension",cefixime,1.0,oral,bd,5,postural hypertension,2019,12,3,14
+50,1,"treated hcv, pott’s spine",cefixime,0.2,oral,bd,5,pott’s spine,2019,12,3,14
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,1.0,iv,tds,1,pre-diabetes,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",co-amoxiclav,0.625,oral,tds,2,pre-diabetes,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",clarithromycin,0.5,oral,bd,4,pre-diabetes,2019,12,3,16
+65,1,"ccf, koch's lung, copd, chest infection, pre-diabetes",ceftriaxone,1.0,iv,bd,2,pre-diabetes,2019,12,3,16
+49,1,"haematemesis, chronic alcoholic, he, acute gastric erosion",ceftriaxone,1.0,iv,bd,1,prevention of infection,2019,12,3,15
+71,0,"dka, type 2 dm, ihd",ceftriaxone,1.0,iv,bd,1,prevention of infection,2019,12,3,15
+32,1,"hepatitis, hypokalaemia, hcc, lichen amyloidosis",pentoxyfylline,0.4,oral,tds,1,prevention of infection,2019,12,3,15
+50,1,"acute ge, pancytopenia",metronidazole,0.75,iv,tds,4,prevention of infection,2019,12,3,15
+43,0,supine bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,prevention of infection,2019,12,3,15
+35,0,green snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,prevention of infection,2019,12,3,15
+21,1,lung abscess,co-amoxiclav,1.2,iv,tds,4,prevention of infection,2019,12,3,15
+21,1,lung abscess,metronidazole,0.75,iv,tds,9,prevention of infection,2019,12,3,15
+21,1,lung abscess,imipenem,0.5,iv,qid,7,prevention of infection,2019,12,3,15
+73,0,"chest infection,  copd",co-amoxiclav,1.2,iv,tds,1,prevention of infection,2019,12,3,15
+73,0,"chest infection,  copd",clarithromycin,0.5,oral,bd,5,prevention of infection,2019,12,3,15
+17,1,"viral encephalitis,  depressive d/o",ceftriaxone,1.0,iv,bd,7,prevention of infection,2019,12,3,15
+17,1,"viral hepatitis,  depressive d/o",ceftriaxone,1.0,iv,bd,5,prevention of infection,2019,12,3,15
+52,1,hmac nsaid induced piles gastritis,cefixime,0.2,oral,bd,5,prevention of infection,2019,12,3,15
+15,1,avi,cefixime,0.2,oral,bd,2,prevention of infection,2019,12,3,15
+56,1,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",streptomycin,0.75,im,od,7,prevention of infection,2019,12,3,15
+56,1,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",levofloxacin,0.5,oral,od,7,prevention of infection,2019,12,3,15
+56,1,"rvi satge iv, rt-sided pleural effusion, 1st line art resistence, on anti-tb",septrin,0.96,oral,od,7,prevention of infection,2019,12,3,15
+42,1,"stroke, newly diagnosis rvi, hbv infection",ceftriaxone,1.0,iv,bd,1,prevention of infection,2019,12,3,15
+23,0,"acute hepatitis, clinical malaria",doxycyclin,0.14225000000000004,oral,bd,7,prevention of infection,2019,12,3,15
+49,0,"pleural effusion, icm, ca breast",ceftriaxone,1.0,iv,bd,1,prevention of infection,2019,12,3,15
+55,0,"chest infection, dm, ckd, traction retinal detachment",co-amoxiclav,0.6,iv,bd,7,prevention of infection,2019,12,3,15
+22,0,chikangunya,azithromycin,0.5,oral,od,5,fever,2019,12,3,15
+45,0,"skin infection, staphylococcal infection, tb",levefloxacin,0.5,iv,od,5,fever,2019,12,3,15
+32,1,"prolonged fever ē, hypotension(leptospirosis)",ceftriaxone,1.0,iv,bd,4,fever,2019,12,3,15
+45,0,"skin infection, staphylococcal infection, tb",amoxicillin+flucoxacillin,1.0,iv,qid,1,fever,2019,12,3,15
+45,0,"skin infection, staphylococcal infection, tb",metronidazole,0.75,iv,tds,11,fever,2019,12,3,15
+50,1,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,iv,bd,4,puo,2019,12,3,16
+18,1,pyexia of unknown origin,ceftriaxone,1.0,iv,bd,2,pyexia of unknown origin,2019,12,3,13
+45,0,"recurrent uti, type 2 dm",meropenem,116.01749999999731,iv,tds,4,uti,2019,12,3,15
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,renal impairment,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,renal impairment,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,renal impairment,2019,12,3,14
+43,1,acute severe asthma,co-amoxiclav,1.2,iv,tds,1,respiratory infection,2019,12,3,14
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,retro(+),2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,retro(+),2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,retro(+),2019,12,3,16
+35,0,rheumatic heart disease with atrial flutter,pen v,0.25,oral,qid,7,rheumatic fever,2019,12,3,15
+42,0,"acute ge, rhd( severe ms mild mr) e af on warfrin",cifran,0.75,iv,bd,3,rheumatic heart disease,2019,12,3,14
+42,0,"acute ge, rhd(severe ms mild mr) e af on warfrin",metronidazole,0.75,iv,tds,3,rheumatic heart disease,2019,12,3,15
+42,0,"acute ge, rhd(severe ms mild mr) e af on warfrin",pen v,0.25,oral,bd,3,rheumatic heart disease,2019,12,3,15
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",metronidazole,0.75,iv,tds,5,right cerebral infarct,2019,12,3,14
+69,0,"gi bleeding, cap, right cerebral infarct, deep vein thrombosis of left leg",cefipime,1.0,iv,bd,1,right cerebral infarct,2019,12,3,14
+29,0,"right lobe consolidation chest infection,  thrombocytopenia",clarithromycin,0.5,oral,bd,5,right lobe consolidation,2019,12,3,14
+29,0,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,oral,tds,3,right lower lobe consolidation,2019,12,3,14
+38,1,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,iv,bd,2,right sided hemiplegia,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,oral,tds,2,rt,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,iv,tds,5,rt,2019,12,3,14
+31,0,"rvi, stage4, art noise, hepatitis, bone marrow depression",cefipime,1.0,iv,bd,4,rvi,2019,12,3,14
+48,0,"he, rvi with col",ceftriaxone,1.0,iv,od,8,rvi,2019,12,3,15
+48,0,"he,  rvi with col",levofloxacin,0.25,iv,od,3,rvi,2019,12,3,15
+48,0,"he,  rvi with col",ceftriaxone,1.0,iv,bd,8,rvi,2019,12,3,15
+48,0,"he, rvi with col",levofloxacin,0.5,iv,od,8,rvi,2019,12,3,15
+71,1,"rvi stage 2, polyerythremia",septrin,116.01749999999731,oral,od,1,rvi,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",septrin,0.96,oral,od,1,rvi,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",coamoxiclav,0.6,iv,od,5,rvi,2019,12,3,14
+52,0,"rvi stage 3, ht disease, renal impairment, koch's lungs, ccf, increased lft",co-amoxiclav,1.2,iv,bd,2,rvi,2019,12,3,14
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",septrin,0.96,oral,od,1,rvi,2019,12,3,14
+31,0,"rvi stage 4, art noise, hepatitis, bone marrow depression",ceftriaxone,1.0,iv,bd,5,rvi,2019,12,3,14
+57,1,"pre-renal aki, rvi stage 4 on art, koch's lung",ceftriaxone,1.0,iv,bd,5,rvi,2019,12,3,15
+44,1,"col, hepatitis,  sbp, he, hk",ceftriaxone,1.0,iv,bd,1,sbp,2019,12,3,14
+57,1,"acute ge,  septic shock",cefepime,1.0,iv,tds,4,septic shock,2019,12,3,16
+57,1,"acute ge,  septic shock",metronidazole,0.75,iv,tds,4,septic shock,2019,12,3,16
+57,1,"acute ge,  septic shock",cefixime,0.2,oral,bd,2,septic shock,2019,12,3,16
+57,1,"acute ge,  septic shock",metronidazole,116.01749999999731,oral,tds,2,septic shock,2019,12,3,16
+38,1,"alcohol withdrawal, extensive koch's lung, septic shock ē lrti",cefoparazone+sulbactam,2.0,iv,bd,10,septic shock,2019,12,3,15
+40,1,"pcp, septic shock",co-amoxiclav,1.2,iv,tds,1,septic shock,2019,12,3,14
+40,1,"pcp, septic shock",septrin,0.96,oral,tds,1,septic shock,2019,12,3,14
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",meropenem,0.5,iv,bd,2,septic shock,2019,12,3,14
+70,1,"septic shock, miliary tb, cerebral infarct, herpes encephalitis",septrin,0.48,oral,od,1,septic shock,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,1.2,iv,tds,1,severe anaemia,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",clarthromycin,0.5,oral,bd,1,severe anaemia,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",co-amoxiclav,0.625,oral,tds,1,severe anaemia,2019,12,3,14
+78,1,"severe anaemia,  multiple myeloma,  ckd,  chest infection",ceftriaxone,1.0,iv,bd,1,severe anaemia,2019,12,3,14
+77,0,"cardioembolic, stroke",ceftriaxone,1.0,iv,bd,1,severe ms,2019,12,3,15
+77,0,"cardioembolic, stroke",metronidazole,0.75,iv,tds,1,severe ms,2019,12,3,15
+77,0,"cardioembolic, stroke",pen v,0.25,oral,bd,1,severe ms,2019,12,3,15
+39,0,severe neutropia with bone marrow supression with art,menopem,0.5,iv,bd,1,severe neutropia with bone marrow supression with art,2019,12,3,14
+39,0,severe neutropia with bone marrow supression with art,azithromycin,0.5,oral,bd,1,severe neutropia with bone marrow supression with art,2019,12,3,14
+39,0,severe neutropia with bone marrow with supression with art,amikacin,0.5,iv,bd,1,severe neutropia with bone marrow supression with art,2019,12,3,14
+55,1,"dehydration, skin infection, dm, peripheral neuropathy, hypertension, ihd",amoxicillin+flucloxacillin,0.14225000000000004,iv,tds,5,skin infection,2019,12,3,15
+55,0,"type 2 dm, ischaemic heart disease",clindamycin,0.3,oral,tds,1,skin infection,2019,12,3,14
+55,0,"type 2 dm, ischaemic heart disease",amoxicillin+flucloxacillin,0.5,oral,tds,1,skin infection,2019,12,3,14
+55,0,"type 2 dm, ischaemic heart disease",co-amoxiclav,0.6,iv,bd,7,skin infection,2019,12,3,14
+29,0,"avi,  sle",cefixime,0.2,oral,bd,6,sle,2019,12,3,16
+29,0,"avi,  sle",ceftriaxone,1.0,iv,bd,8,sle,2019,12,3,16
+15,0,"sle, chest infection",ceftriaxone,0.5,iv,od,4,sle,2019,12,3,15
+32,1,"food poisoing, acute ge, some dehydration",norfloxacin,0.4,oral,bd,3,some dehydration,2019,12,3,14
+72,1,"sputum(+) tb on anti-tb, prolapsed pile, electrolyte imbalance",cifran,0.5,oral,bd,3,sputum(+) koch's lung on anti- tb,2019,12,3,15
+35,1,"anaemia, chest infection",ceftriaxone,1.0,iv,bd,1,surgery,2019,12,3,15
+35,1,"anaemia, chest infection",pentoxifylline,0.4,oral,tds,1,surgery,2019,12,3,15
+65,0,"type 2 respiratory failure, hypothyroid, pleural effusion, osa, hypotension",ceftriaxone,1.0,iv,bd,2,surgery,2019,12,3,15
+27,1,"col, ascities, mild phg",ceftriaxone,1.0,iv,bd,4,surgery,2019,12,3,15
+73,0,"svt,  chest infection,  old koch'lung,  hypokalemia",co-amoxiclav,1.2,iv,tds,4,svt,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",ceftriaxone,1.0,iv,od,1,symptomatic hypoglycemia,2019,12,3,14
+48,1,"symptomatic hypoglycemia,  chest infection,  alcoholic col,  addison's disease",co-amoxiclav,1.2,iv,tds,1,symptomatic hypoglycemia,2019,12,3,14
+48,1,"systematic hypoglycemia,  chest infection,  alcoholic col,  addision's disease",metronidazole,0.75,iv,tds,1,systematic hypoglycemia,2019,12,3,14
+13,1,"t/t for prolong fever,  dengue fever",ceftriaxone,0.5,iv,bd,4,t/t for prolong fever,2019,12,3,14
+13,1,"t/t for prolong fever,  dengue fever",cefixime,0.2,oral,bd,3,t/t for prolong fever,2019,12,3,14
+25,1,"tb,  hbv",cefepime,0.5,iv,od,1,tb,2019,12,3,16
+25,1,"tb,  hbv",co-amoxiclav,0.6,iv,tds,8,tb,2019,12,3,16
+86,0,"haemoptysis, tb , degenerative mr",co-amoxiclav,1.2,iv,tds,3,tb,2019,12,3,14
+23,0,right moderate pleural effusion(tuberculous),co-amoxiclav,1.2,iv,tds,7,tb,2019,12,3,15
+29,0,"right lobe consolidation chest infection,  thrombocytopenia",clarithromycin,0.5,oral,bd,5,thrombocytopenia,2019,12,3,14
+29,0,"right lower lobe consolidation chest infection,  thrombocytopenia",co-amoxiclav,0.625,oral,tds,3,thrombocytopenia,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hudronephrosis, thyrotoxicosis",co-amoxiclav,0.625,oral,tds,2,thyrotoxicosis,2019,12,3,14
+60,0,"chest infection, multinodular goiter, rt, hydronephrosis, thyrotoxicosis",co-amoxiclav,1.2,iv,tds,5,thyrotoxicosis,2019,12,3,14
+50,1,"thyrotoxicosis, joint pain, puo",ceftriaxone,1.0,iv,bd,4,thyrotoxicosis,2019,12,3,16
+50,1,"treated hcv, pott’s spine",cefixime,0.2,oral,bd,5,treated hcv,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,iv,bd,6,type 2 dm,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,iv,bd,5,type 2 dm,2019,12,3,14
+78,0,"anteroseptal mi, klebsiella pneumonia, hypertension, type 2 dm, old stroke",co-amoxiclav,1.2,iv,tds,8,type 2 dm,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",metronidazole,0.75,iv,tds,1,type 2 dm,2019,12,3,14
+54,0,"hydropneumothorax, empyema, type 2 dm, myoma uterus",co-amoxiclav,1.2,iv,tds,14,type 2 dm,2019,12,3,14
+78,0,"type 2 dm, hypoglycaemia, ihr",cefixime,0.2,oral,bd,5,type 2 dm,2019,12,3,15
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftriaxone,1.0,iv,bd,2,type 2 dm,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",amikacin,0.5,iv,bd,8,type 2 dm,2019,12,3,14
+70,0,"neutropenia, fever, anaemia, ca buffalo mucosa, type 2 dm",ceftazidime,2.0,iv,tds,2,type 2 dm,2019,12,3,14
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,iv,bd,1,type 2 dm,2019,12,3,14
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",levofloxacin,0.2,oral,od,7,type 2 dm,2019,12,3,14
+62,0,"urinary tract infection,  type 2dm, af,  hypertension",co-amoxiclav,1.2,iv,tds,1,type 2 dm,2019,12,3,14
+62,0,"urinay tract infection,  type 2dm,  af,  hypertension",cefepime,1.0,iv,bd,5,type 2 dm,2019,12,3,14
+49,0,"bppv, type2 dm, postural hypertension",ceftriaxone,1.0,iv,bd,1,type 2 dm,2019,12,3,14
+49,0,"bppv, type2 dm, postural hypertension",cefixime,1.0,oral,bd,5,type 2 dm,2019,12,3,14
+82,1,"type-2dm, ihd, col, copd, ht",ofloxacin,0.4,iv,bd,3,type 2 dm,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",cefipime,1.0,iv,bd,5,type 2 dm,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",azithromycin,0.5,oral,od,3,type 2 dm,2019,12,3,15
+82,1,"type-2 dm, ihd, col, copd, ht",ceftazidime,1.0,iv,tds,3,type 2 dm,2019,12,3,15
+53,0,"dm, acute ge, koch's lung",ceftriaxone,1.0,iv,bd,3,type 2 dm,2019,12,3,16
+53,0,"dm, acute ge, koch's lung",ciprofloxacin,0.5,oral,bd,2,type 2 dm,2019,12,3,16
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,type 2 dm,2019,12,3,14
+38,1,"right sided hemiplegia, uncontrolled dm, chronic pancreatitis, chronix diarrhoea",ceftriaxone,1.0,iv,bd,2,type 2 dm,2019,12,3,14
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",co-amoxiclav,1.2,iv,tds,4,type 2 dm,2019,12,3,16
+57,1,"abscess on chin, uncontrolled type 2 dm, koch's lung",clindamycin,0.2,oral,tds,7,type 2 dm,2019,12,3,16
+40,1,"hepatitis, leptospirosis, typhoid",ceftriaxone,1.0,iv,bd,1,typhoid,2019,12,3,13
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",ceftriaxone,1.0,iv,bd,4,ugi tract bleeding,2019,12,3,16
+66,1,"alcoholic gastritis, col, ugi tract bleeding, hiv",mirox,0.5,oral,bd,3,ugi tract bleeding,2019,12,3,16
+62,0,"ulcer at left leg,  impaired glucose tolerance",cefixime,0.2,oral,bd,5,ulcer at left leg,2019,12,3,14
+62,0,"ulcer at left leg,  impaired glucose tolerence",ceftazidime,1.0,iv,tds,6,ulcer at left leg,2019,12,3,14
+62,0,"ulcer at left leg, impaired glucose tolerance",metronidazole,0.75,iv,tds,6,ulcer at left leg,2019,12,3,14
+60,1,"acute ge, underlying  heart disease",metronidazole,0.75,iv,tds,2,underlying  heart disease,2019,12,3,14
+45,0,unknown bite of right hand,amoxicillin+flucloxacillin,0.5,oral,tds,1,unknown bite,2019,12,3,13
+15,0,unknown bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,unknown bite,2019,12,3,14
+62,0,snake bite at right foot,amoxicillin+flucloxacillin,0.5,iv,tds,1,snake bite,2019,12,3,16
+62,0,snake bite at right foot,amoxicillin+flucloxiacillin,0.25,oral,tds,5,snake bite,2019,12,3,16
+38,0,unknown snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,14
+25,0,unknown snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,4,snake bite,2019,12,3,15
+44,0,unknown snake bite,flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,16
+25,0,unknown snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,1,snake bite,2019,12,3,14
+40,0,unknown snake bite,amoxicillin+flucloxacillin,0.5,oral,tds,5,snake bite,2019,12,3,14
+45,1,"hepatic encephalopathy, col, upper gi bleeding",metronidazole,0.75,iv,tds,1,upper gi bleeding,2019,12,3,15
+45,1,"hepatic encephalopathy, col, upper gi bleeding",ceftriaxone,1.0,iv,bd,2,upper gi bleeding,2019,12,3,15
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,1.2,iv,tds,2,uraemic gastritis,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",co-amoxiclav,0.6,oral,od,2,uraemic gastritis,2019,12,3,16
+32,0,"general debility e excessive vomitting, uraemic gastritis, hcv aki ckd, retro(+)",septrin,0.96,oral,od,1,uraemic gastritis,2019,12,3,16
+30,1,"chikungunya, renal stone",ceftriaxone,1.0,iv,bd,1,uti,2019,12,3,14
+62,0,"urinary tract infection,  type 2dm, af,  hypertension",co-amoxiclav,1.2,iv,tds,1,uti,2019,12,3,14
+62,0,"urinay tract infection,  type 2dm,  af,  hypertension",cefepime,1.0,iv,bd,5,uti,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",gentamicin,0.8,iv,bd,6,uti,2019,12,3,14
+64,0,"acute pulmonary edema, ihd, uti, type 2 dm, chest infection",ceftriaxone,1.0,iv,bd,5,uti,2019,12,3,14
+37,1,"anaphyatic, uti",ceftriaxone,1.0,iv,bd,3,uti,2019,12,3,14
+37,1,"anaphylatic shock, uti",cefixime,2.0,oral,bd,5,uti,2019,12,3,14
+64,1,"ccf precipated by chest infection,  ckd,  uti",cefepime,1.0,iv,bd,5,uti,2019,12,3,16
+64,1,"ccf precipated by chest infection, old anterior mi, ckd, uti",ceftriaxone,1.0,iv,bd,2,uti,2019,12,3,16
+55,0,"type 2 dm, ischaemic heart disease",clindamycin,0.3,oral,tds,1,uti,2019,12,3,14
+55,0,"type 2 dm, ischaemic heart disease",amoxicillin+flucloxacillin,0.5,oral,tds,1,uti,2019,12,3,14
+55,0,"type 2 dm, ischaemic heart disease",co-amoxiclav,0.6,iv,bd,7,uti,2019,12,3,14
+36,0,"recurrrent uti, intra renal stone",ciprofloxacin,0.5,iv,bd,4,uti,2019,12,3,14
+36,0,"recurrent uti, intra renal stone",meropenem,0.5,iv,tds,5,uti,2019,12,3,14
+50,0,"dka, uti, poor drug compliance",ceftriaxone,1.0,iv,bd,1,uti,2019,12,3,15
+31,0,uti,meropenem,0.5,iv,tds,5,uti,2019,12,3,16
+31,0,uti,levofloxacin,0.5,iv,od,5,uti,2019,12,3,16
+52,0,"complicated uti, renal stone, akt, poorly controlled dm",pipercillin+tazobactam,2.25,iv,bd,7,uti,2019,12,3,16
+52,0,"complicated uti, renal stone, akt, poorly controlled dm",nitrofurantoin,0.14225000000000004,iv,bd,7,uti,2019,12,3,16
+64,0,"septic shock, complicated uti, dm, hypertension",cefepime,0.5,iv,od,2,uti,2019,12,3,16
+64,0,"septic shock, complicated uti, dm, hypertension",cefepime,1.0,iv,bd,1,uti,2019,12,3,16
+25,0,"hepatitis, uti",ceftriaxone,1.0,iv,bd,3,uti,2019,12,3,16
+25,0,"hepatitis, uti",cefixime,0.2,oral,bd,5,uti,2019,12,3,16
+67,0,"uti , mi,  dm,  ckd,  cuf, cff ppt by chest infection",ceftriaxone,1.0,iv,bd,7,uti,2019,12,3,14
+46,1,"early col, uti, chest infection",ceftriaxone,1.0,iv,bd,4,uti,2019,12,3,16
+46,1,"early col, uti, chest infection",cefixime,0.2,oral,bd,5,uti,2019,12,3,16
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",ceftriaxone,1.0,iv,bd,1,uti,2019,12,3,14
+56,1,"uti, type 2 dm, ihd, hbs ag(+)",levofloxacin,0.2,oral,od,7,uti,2019,12,3,14
+76,1,"uti,  operated spinal cord,  hematoma and paraplegia",levofloxacin,0.5,oral,od,5,uti,2019,12,3,15
+48,0,"he,  rvi with col",rifaximin,0.55,oral,bd,1,vil,2019,12,3,15
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,2.0,iv,bd,2,viral encephalitis,2019,12,3,16
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",cefixime,0.2,oral,bd,1,viral encephalitis,2019,12,3,16
+15,1,"glandular fever, measles, viral encephalitis, fever with confusion",ceftriaxone,1.0,iv,bd,2,viral encephalitis,2019,12,3,16
+85,0,"ccf, hypertension, ida, ckd(stage 5), ?icm,",ceftriaxone,1.0,iv,bd,7,unknown,2019,12,3,14
